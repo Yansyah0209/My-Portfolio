@@ -1,6 +1,6 @@
-# Kika Portfolio — recovered editable website
+# Kika Portfolio 
 
-Static HTML/CSS/JavaScript source reconstructed from a published browser snapshot. **Not the original ChatGPT Sites React source.**
+Static HTML/CSS/JavaScript source reconstructed from a published browser snapshot.
 
 ## Preview locally
 
